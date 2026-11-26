@@ -1,7 +1,7 @@
 # Online Shopper Intent Radar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhiram-tekulapalli/project_readme_assets/main/header.svg" alt="Online Shopper Intent Radar" width="100%" />
+  <img src="assets/readme_assets/header.svg" alt="Online Shopper Intent Radar" width="100%" />
 </p>
 
 <p align="center">
@@ -192,5 +192,5 @@ BVRIT Narsapur — Computer Science & Engineering (AI/ML)
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhiram-tekulapalli/project_readme_assets/main/footer.svg" alt="Footer" width="100%" />
+  <img src="assets/readme_assets/footer.svg" alt="Footer" width="100%" />
 </p>
